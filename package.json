@@ -1,0 +1,24 @@
+{
+  "name": "repos-fork-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmk1111/repos-fork-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmk1111/repos-fork-check/issues"
+  },
+  "homepage": "https://github.com/dmk1111/repos-fork-check#readme",
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  }
+}
